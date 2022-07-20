@@ -12,6 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "KtMvvm"
+rootProject.name = "Kotm"
 include ':app'
 include ':library'

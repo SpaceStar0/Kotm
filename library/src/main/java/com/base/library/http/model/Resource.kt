@@ -2,7 +2,7 @@ package com.base.library.http.model
 
 /**
  * File Resource
- * Created by yux on 2022/5/15 12:58
+ * Created on 2022/5/15 12:58
  * Description:
  *
  * 设置数据源

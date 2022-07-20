@@ -6,7 +6,7 @@ import okhttp3.Response
 
 /**
  * File ResponseInterceptor
- * Created by yux
+ * Created
  * Description: Cookie拦截
  */
 class ResponseInterceptor : Interceptor {

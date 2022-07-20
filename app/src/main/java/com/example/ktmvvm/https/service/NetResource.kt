@@ -10,7 +10,7 @@ import retrofit2.Response
 
 /**
  * File NetResource
- * Created by yux
+ * Created
  * Description:
  */
 abstract class NetResource<T> {

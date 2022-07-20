@@ -7,7 +7,7 @@ import org.json.JSONObject
 
 /**
  * File BodyInterceptor
- * Created by yux on 2022/5/15 12:48
+ * Created on 2022/5/15 12:48
  * Description:
  *
  * 处理返回结果，成功和失败类型不统一

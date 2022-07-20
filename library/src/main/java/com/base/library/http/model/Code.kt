@@ -2,7 +2,7 @@ package com.base.library.http.model
 
 /**
  * File Code
- * Created by yux on 2022/5/15 12:49
+ * Created on 2022/5/15 12:49
  * Description:
  *
  * 服务器返回状态

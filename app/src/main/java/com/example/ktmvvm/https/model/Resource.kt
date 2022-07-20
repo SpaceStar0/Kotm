@@ -3,7 +3,7 @@ package com.example.ktmvvm.https.model
 
 /**
  * File Resource
- * Created by yux
+ * Created
  * Description:
  */
 data class Resource<out T>(

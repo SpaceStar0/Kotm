@@ -8,7 +8,7 @@ import okhttp3.Response
 
 /**
  * File ParamsIpt
- * Created by yux
+ * Created
  * Description: 添加请求头
  */
 class ParamsIpt : Interceptor {

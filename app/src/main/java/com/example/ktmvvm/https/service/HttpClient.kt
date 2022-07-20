@@ -11,7 +11,7 @@ import java.util.concurrent.TimeUnit
 
 /**
  * File HttpClient
- * Created by yux
+ * Created
  * Description: retrofit配置
  */
 object HttpClient {

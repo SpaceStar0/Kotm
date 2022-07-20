@@ -12,7 +12,7 @@ import java.lang.reflect.Type
 
 /**
  * File GsonDefaultAdapterFactory
- * Created by yux on 2022/5/15 12:59
+ * Created on 2022/5/15 12:59
  * Description:
  *
  * 处理null

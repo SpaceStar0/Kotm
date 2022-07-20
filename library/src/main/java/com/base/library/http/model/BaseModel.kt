@@ -4,7 +4,7 @@ import java.io.Serializable
 
 /**
  * File BaseModel
- * Created by yux on 2022/5/15 12:56
+ * Created on 2022/5/15 12:56
  * Description:
  *
  * model

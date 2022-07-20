@@ -8,7 +8,7 @@ import androidx.lifecycle.ViewModelProvider
 
 /**
  * File BaseActivity
- * Created by yux on 2022/4/5 14:33
+ * Created on 2022/4/5 14:33
  * Description:
  * Activity 基类
  * 指定 ViewModel 类型 [VM] & 指定 DataBinding 类型 [DB]

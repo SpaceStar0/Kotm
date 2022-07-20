@@ -6,7 +6,7 @@ import retrofit2.http.GET
 
 /**
  * File IService
- * Created by yux
+ * Created
  * Description: 请求接口
  */
 interface IService {

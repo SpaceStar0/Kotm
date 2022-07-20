@@ -4,7 +4,7 @@ import java.io.Serializable
 
 /**
  * File BaseModel
- * Created by yux
+ * Created
  * Description: base基
  */
 open class BaseModel<T> : Serializable {

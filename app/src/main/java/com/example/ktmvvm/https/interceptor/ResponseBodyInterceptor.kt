@@ -9,7 +9,7 @@ import java.nio.charset.StandardCharsets
 
 /**
  * File ResponseBodyInterceptor
- * Created by yux
+ * Created
  * Description: 自定义返回数据解析拦截器
  */
 abstract class ResponseBodyInterceptor : Interceptor {

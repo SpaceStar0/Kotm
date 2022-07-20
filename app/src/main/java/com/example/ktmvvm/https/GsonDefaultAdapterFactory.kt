@@ -11,7 +11,7 @@ import java.lang.reflect.Type
 
 /**
  * File GsonDefaultAdapterFactory
- * Created by yux
+ * Created
  * Description: gson处理null
  */
 class GsonDefaultAdapterFactory: TypeAdapterFactory {

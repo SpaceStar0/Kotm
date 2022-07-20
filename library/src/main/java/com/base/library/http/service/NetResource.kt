@@ -10,7 +10,7 @@ import retrofit2.Response
 
 /**
  * File NetResource
- * Created by yux on 2022/5/15 13:05
+ * Created by on 2022/5/15 13:05
  * Description:
  *
  * 需要实现的请求结果处理

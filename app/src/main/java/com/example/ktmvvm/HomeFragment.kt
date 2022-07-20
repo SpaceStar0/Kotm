@@ -8,7 +8,7 @@ import com.example.ktmvvm.databinding.ActivityMainBinding
 
 /**
  * File HomeFragment
- * Created by yux on 2022/4/5 17:05
+ * Created by on 2022/4/5 17:05
  * Description:
  */
 class HomeFragment: BaseFragment<BaseViewModel, ActivityMainBinding>() {

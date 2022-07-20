@@ -7,7 +7,7 @@ import org.json.JSONObject
 
 /**
  * File BodyInterceptor
- * Created by yux
+ * Created
  * Description: 处理返回结果，成功和失败类型不统一
  */
 class BodyInterceptor : ResponseBodyInterceptor() {

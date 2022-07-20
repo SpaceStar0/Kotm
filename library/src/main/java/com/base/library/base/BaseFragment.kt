@@ -10,7 +10,7 @@ import androidx.lifecycle.ViewModelProvider
 
 /**
  * File BaseFragment
- * Created by yux on 2022/5/15 12:38
+ * Created on 2022/5/15 12:38
  * Description:
  * 指定 ViewModel 类型 [VM] & 指定 DataBinding 类型 [DB]
  */

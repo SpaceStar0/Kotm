@@ -6,7 +6,7 @@ import androidx.lifecycle.ViewModelStoreOwner
 
 /**
  * File BaseViewModel
- * Created by yux on 2022/5/15 12:33
+ * Created on 2022/5/15 12:33
  * Description: viewModel基类
  */
 abstract class BaseViewModel : ViewModel() {

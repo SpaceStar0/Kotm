@@ -11,7 +11,7 @@ import javax.net.ssl.SSLHandshakeException
 
 /**
  * File ExceptionHandle
- * Created by yux
+ * Created
  * Description: 异常
  */
 object ExceptionHandle {
